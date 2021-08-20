@@ -10,7 +10,6 @@ featured: true
 hidden: false
 
 ---
- *[Designed by rawpixel.com / Freepik](http://www.freepik.com)*
 
   
 After seeing numerous crypto and NFT holders fall for the infamous "enter your seed phrase" scam, I thought I'd share some tips on how to securely manage your seed phrase.  
@@ -36,4 +35,8 @@ Places to avoid writing down your seed phrase:
 - In a text message to yourself  
 - In a notebook or journal that you frequently take with you ouside your home  
 
-Hopefully this post gave you some good ideas, or at the very least I hope it scared you into taking your seed phrase security very seriously. The last thing I want to do is discourage anyone new from entering the blockchain space because it's a very exciting time to get involved. Just make sure that when you do you protect yourself and your assets.
+Hopefully this post gave you some good ideas, or at the very least I hope it scared you into taking your seed phrase security very seriously. The last thing I want to do is discourage anyone new from entering the blockchain space because it's a very exciting time to get involved. Just make sure that when you do you protect yourself and your assets.  
+  
+
+  
+*Image Credit: [Designed by rawpixel.com / Freepik](http://www.freepik.com)*
