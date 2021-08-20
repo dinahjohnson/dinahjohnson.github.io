@@ -7,7 +7,7 @@ tags: [cryptocurrency, NFT]
 image: assets/images/wallet.jpg
 description: "Tips on what to do and what not to do with your seed phrase."
 featured: true
-hidden: true
+hidden: false
 
 ---
 After seeing numerous crypto and NFT holders fall for the infamous "enter your seed phrase" scam I thought I'd share some tips on what to do and what not to do with your seed phrase.  

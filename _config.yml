@@ -1,9 +1,7 @@
 # Site
-name: "Fundamentals"
-title: "Fundamentals"
+name: "Cyber Girl Dinah"
+title: "Cyber Girl Dinah"
 description: "“Nothing is so firmly believed as that which is least known.” - Michael Crichton"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
 baseurl: /cybergirldinah.github.io
 include: ["_pages"]
 permalink: /:title/
