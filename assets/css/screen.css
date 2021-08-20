@@ -59,7 +59,7 @@ section {
     margin-bottom: 20px;
 }
 
-section.recent-posts {
+section.recent-posts { 
     margin-bottom: 0;
 }
 
@@ -305,7 +305,7 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.sitetitle {
-    font-family: Righteous;
+    font-family: 'Righteous', cursive;
 }
 
 .mainheading h1.posttitle {
@@ -363,16 +363,20 @@ blockquote {
 }
 
 .share ul li {
+    list-style: none;
     display: inline-block;
     margin-bottom: 9px;
+
 }
 
 .share ul {
+    list-style: none;
     padding-left: 0;
     margin-left: 0;
 }
 
 .share ul li i.fa {
+    list-style: none;
     border: 1px solid #ddd;
     width: 30px;
     height: 30px;
