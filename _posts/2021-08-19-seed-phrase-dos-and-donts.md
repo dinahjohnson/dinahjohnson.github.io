@@ -35,4 +35,4 @@ Some terrible places to write down your seed phrase are:
 - In a text message to yourself  
 - In a notebook or journal that you frequently use  
 
-Hopefully this post gave you some good ideas, or at the very least I hope if scared you into taking your seed phrase security very seriously. The last thing I want to do is discourage anyone because blockchain is amazing and it's a very exciting time to get involved, just make sure that when you do you protect yourself and your assets.
+Hopefully this post gave you some good ideas, or at the very least I hope if scared you into taking your seed phrase security very seriously. The last thing I want to do is discourage anyone because blockchain is amazing and it's a very exciting time to get involved, just make sure that when you do you protect yourself and your assets.  

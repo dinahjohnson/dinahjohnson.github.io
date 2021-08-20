@@ -4,8 +4,7 @@ title: "Fundamentals"
 description: "“Nothing is so firmly believed as that which is least known.” - Michael Crichton"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /mediumish-theme-jekyll
-google_analytics: 'UA-46278016-1'
+baseurl: /cybergirldinah.github.io
 include: ["_pages"]
 permalink: /:title/
 
