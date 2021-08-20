@@ -2,7 +2,7 @@
 name: "Cyber Girl Dinah"
 title: "Cyber Girl Dinah"
 description: "“Nothing is so firmly believed as that which is least known.” - Michael Crichton"
-baseurl: /cybergirldinah.github.io
+baseurl: ""
 include: ["_pages"]
 permalink: /:title/
 
