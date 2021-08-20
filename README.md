@@ -1,1 +1,1 @@
-
+Theme: Modified [Mediumish Jekyll Theme](https://github.com/wowthemesnet/mediumish-theme-jekyll/)
