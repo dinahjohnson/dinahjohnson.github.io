@@ -1,6 +1,6 @@
 # Site
-name: "Cyber Girl Dinah"
-title: "Cyber Girl Dinah"
+name: "Proof of Work"
+title: "Proof of Work"
 description: "Nothing is so firmly believed as that which is least known."
 baseurl: ""
 include: ["_pages"]
@@ -13,7 +13,7 @@ authors:
     display_name: Dinah Johnson
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: cybergirldinah@gmail.com
-    web: cybergirldinah.com
+    web: https://github.com/cybergirldinah
     twitter: https://twitter.com/cybergirldinah
 
 # Plugins
