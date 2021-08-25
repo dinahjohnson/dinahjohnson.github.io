@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to Buy an NFT: A Beginner's Complete Guide"
+title:  "How to Buy an NFT: A Complete Beginner's Guide"
 author: dinah
 categories: [Blockchain]
 tags: [cryptocurrency, NFT, ethereum, solana]
