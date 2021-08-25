@@ -2,7 +2,7 @@
 layout: post
 title:  "How to Buy an NFT: A Beginner's Complete Guide"
 author: dinah
-categories: [ Blockchain]
+categories: [Blockchain]
 tags: [cryptocurrency, NFT, ethereum, solana]
 image: assets/images/nft.png
 description: "A beginner's guide to NFTs"
@@ -53,11 +53,11 @@ It may seem like a lot, but once you get your wallet set up it's easy from there
  - Join the Discord for the project you're interested in - especially projects that have upcoming launches. Try to gauge enthusiam about the project
 
 ## Twitter Accounts I Follow for NFT Tips & Announcements
-[iamDCinvestor](https://twitter.com/iamDCinvestor)  
-[israelswilson](https://twitter.com/israelswilson)  
-[blknoiz06](https://twitter.com/blknoiz06) (NSFW)  
-[OpenSea](https://twitter.com/opensea)  
-[SolanartNFT](https://twitter.com/SolanartNFT)  
+[@iamDCinvestor](https://twitter.com/iamDCinvestor)  
+[@israelswilson](https://twitter.com/israelswilson)  
+[@blknoiz06](https://twitter.com/blknoiz06) (NSFW)  
+[@OpenSea](https://twitter.com/opensea)  
+[@SolanartNFT](https://twitter.com/SolanartNFT)  
 
 Hopefully this guide provided everything you need to know about how to buy and sell NFTs. There is much more to the NFT space, like gaming collectibles and fractional ownership, which I hope to cover in the future. NFTs are a fun introduction to blockchain and a remarkable tool for artists and creators. Just remember to only spend what you can afford to lose and, most importantly, have fun.  
   
