@@ -2,8 +2,8 @@
 layout: post
 title:  "Blockchain Basics (Part 1): Structure"
 author: dinah
-categories: [Blockchain]
-tags: [data structures, algorithms]
+categories: [Blockchain, Data structures, Algorithms]
+tags: []
 image: assets/images/blockchain.jpg
 description: "A simple explanation of a blockchain with code examples"
 featured: true
@@ -88,7 +88,9 @@ async function verifyChain(chain) {
 	return true;
 }
 ```
-This example provides a simple overview of the structure of a blockchain. In my next post I'll detail how block data is encoded in Merkle trees.
+This example provides a simple overview of the structure of a blockchain. To recap, a blockchain is an array of blocks that are verifiably linked together by checking that the cryptographic hash of a block is recorded as the previous hash of the subsequent block.
+
+In my next post I'll detail how block data is encoded in Merkle trees.
 
 ## Resources
 [Building a Blockchain](https://observablehq.com/@consensys-academy/building-a-blockchain)  
