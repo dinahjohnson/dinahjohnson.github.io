@@ -121,6 +121,10 @@ section.recent-posts {
     overflow: hidden;
 }
 
+.img-fluid, lazyimg {
+    width: 300px;
+    height: 300px
+}
 .listfeaturedtag .card,
 .card-footer {
     border: 0;

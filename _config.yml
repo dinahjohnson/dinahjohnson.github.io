@@ -1,7 +1,6 @@
 # Site
 name: "Proof of Work"
 title: "Proof of Work"
-description: "Nothing is so firmly believed as that which is least known."
 baseurl: ""
 include: ["_pages"]
 permalink: /:title/
