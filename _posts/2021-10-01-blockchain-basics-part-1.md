@@ -6,7 +6,7 @@ categories: [Blockchain, Data structures, Algorithms]
 tags: []
 image: assets/images/blockchain.jpg
 description: "A simple explanation of a blockchain with code examples"
-featured: true
+featured: false
 hidden: false
 
 ---
