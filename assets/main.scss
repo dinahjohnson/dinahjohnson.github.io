@@ -1,0 +1,35 @@
+---
+---
+
+@import "minima";
+
+.footer-col-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  
+  @media (max-width: 680px) {
+    flex-direction: column;
+    text-align: center;
+  }
+
+
+}
+
+.p-name {
+  font-weight: 500;
+}
+
+.social-media-list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2vw;
+}
+
+.copyright {
+  font-family: $base-font-family;
+  font-size: $small-font-size;
+  color: $grey-color;
+  text-align: center;
+}

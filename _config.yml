@@ -1,56 +1,49 @@
-# Site
-name: "Proof of Work"
-title: "Proof of Work"
-baseurl: ""
-include: ["_pages"]
-permalink: /:title/
+title: Foo Bar
+subtitle: Computer Science Blog
+author:
+  name: Dinah Johnson
+  copyright-year: 2022
+  email: dinahjohnson@pm.me
+twitter_username: cybergirldinah
+github_username:  dinahjohnson
+linkedin_username: dinahjohnson
+description: >-
+  My collection of computer science research, project tutorials, problem solving
+  practice, and musings on the latest technology trends.
+ 
+url: "https://dinahjohnson.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Authors
-authors:
-  dinah:
-    name: Dinah
-    display_name: Dinah Johnson
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: cybergirldinah@gmail.com
-    web: https://github.com/cybergirldinah
-    twitter: https://twitter.com/cybergirldinah
+google_analytics: G-DGYQCSL3S6
 
-# Plugins
+header_pages:
+  - projects.markdown
+  - blog.markdown
+  - about.markdown
+
+# Build settings
+theme: minima
+
+
+    
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-archives
-    
-# Archives
-jekyll-archives:
-  enabled:
-    - categories
-  layout: archive
-  permalinks:
-    category: '/category/:name/'
-    
-# Pagination 
-paginate: 6
-paginate_path: /page:num/
-    
-# Other
-markdown: kramdown
-
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    block:
-      line_numbers: true
-
-# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
-adsense-data-ad-slot: "1363087678"
-
-# Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
-
-exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
