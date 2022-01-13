@@ -47,10 +47,10 @@ Here's an example of bottom-up parsing given the following grammar and right sen
 
 *Grammar*
 
-S → AB || BC || cB  
-A → Ac || aBB || b  
-B → Cb || cBb || a  
-C → Ac || bCA || c  
+S → AB \| BC \| cB  
+A → Ac \| aBB \| b  
+B → Cb \| cBb \| a  
+C → Ac \| bCA \| c  
 
 *String*  
 aBbcbcBb
