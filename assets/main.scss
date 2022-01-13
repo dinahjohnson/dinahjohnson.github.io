@@ -33,3 +33,38 @@
   color: $grey-color;
   text-align: center;
 }
+
+.projects {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  width: 300px;
+  height: 300px; 
+  border-style: solid;
+  border-width: 1px;
+  border-color: $grey-color-light;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin: 10px;
+}
+
+.card-title {
+  color: $brand-color
+}
+
+.card-footer {
+  font-style: italic;
+}
+
+.card > a {
+  color: black;
+  text-decoration: none;
+}
