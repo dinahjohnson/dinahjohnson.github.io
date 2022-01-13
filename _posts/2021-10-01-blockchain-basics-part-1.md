@@ -7,6 +7,8 @@ description: "A simple explanation of a blockchain with code examples"
 
 ---
 
+## Arrays
+
 Conceptually, a blockchain is an array of blocks of data that are cryptographically back-linked so that each block contains a reference to the previous block.  
 
 Each block after the genesis block is an object with an index, a hash, data, a timestamp, and the hash of the previous block. To create the hash, the `index`, `prevHash`, `data`, and `timestamp` properties are passed through a SHA-256 hash function. SHA-256 is a secure hashing algorithm that outputs a 256 bit value for any given input.
@@ -85,7 +87,9 @@ async function verifyChain(chain) {
 }
 ```
 
-The `data` in a block is actually a Merkle tree of several transactions. A Merkle tree, or binary hash tree, is a data structure that allows for efficient data storage to minimize computing resource consumption and verify data integrity. When transactions are approved by a blockchain network to be added to a block, the transactions are paired and hashed repeatedly until there is one single hash representing all of the transactions. This final hash is called the Merkle root.
+## Merkle Trees
+
+The `data` in a block is actually a Merkle tree of several transactions. A Merkle tree, or binary hash tree, is a data structure that allows for efficient data storage to minimize computing resource consumption and verify data integrity. When transactions are approved by a blockchain network to be added to a block, the transactions are paired and hashed repeatedly until there is one single hash representing all of the transactions. This final hash is called the Merkle root. This final hash is stored as the data in the block.
 
 ![Merkle Tree Hash](/assets/images/merkle-tree-hash.png)  
 
