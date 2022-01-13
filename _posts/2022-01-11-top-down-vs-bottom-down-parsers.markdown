@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Top-Down vs Bottom-Up Parsers"
-date:   2022-01-11 14:17:15 -0600
 categories: [computer science, programming languages, compilers]
 ---
 

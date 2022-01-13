@@ -2,8 +2,7 @@
 layout: post
 title:  "Seed Phrase Do's and Don'ts"
 categories: [blockchain, information security]
-date:   2021-08-19 12:00:05 -0600
-description: "Tips on how to manage your crypto wallet seed phrase."
+
 ---
 
   

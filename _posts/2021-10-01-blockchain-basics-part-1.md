@@ -1,9 +1,7 @@
 ---
 layout: post
 title:  "Blockchain Data Structures: Arrays & Trees"
-categories: blockchain, data structures, algorithms
-date:   2021-10-01 14:17:15 -0600
-description: "A simple explanation of a blockchain with code examples"
+categories: [blockchain, data structures, algorithms]
 
 ---
 
