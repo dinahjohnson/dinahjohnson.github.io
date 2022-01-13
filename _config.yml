@@ -12,9 +12,9 @@ description: >-
   practice, and musings on the latest technology trends.
  
 url: "https://dinahjohnson.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-
+base_url: ""
 google_analytics: G-DGYQCSL3S6
-
+permalink: /:title:output_ext
 header_pages:
   - blog.markdown
   - projects.markdown
