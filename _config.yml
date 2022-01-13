@@ -16,8 +16,8 @@ url: "https://dinahjohnson.github.io" # the base hostname & protocol for your si
 google_analytics: G-DGYQCSL3S6
 
 header_pages:
-  - projects.markdown
   - blog.markdown
+  - projects.markdown
   - about.markdown
 
 # Build settings
